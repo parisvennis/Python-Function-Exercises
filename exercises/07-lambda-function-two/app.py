@@ -1,3 +1,4 @@
+rapid = lambda name: name[:-1]
 
 
 
